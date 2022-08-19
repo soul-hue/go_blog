@@ -1,0 +1,3 @@
+time="2022-08-19T13:44:26+08:00" level=info Agent=PostmanRuntime/7.28.2 DataSize=695 HostName=WIN-VO66KVNSN00 Ip="::1" Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="11 ms" status=200
+28:40+08:00" level=info Agent=PostmanRuntime/7.28.2 DataSize=67 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="3 ms" status=200
+time="2022-08-19T13:44:04+08:00" level=info Agent=PostmanRuntime/7.28.2 DataSize=685 HostName=WIN-VO66KVNSN00 Ip="::1" Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="1 ms" status=200

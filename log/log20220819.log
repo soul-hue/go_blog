@@ -1,0 +1,9 @@
+time="2022-08-19 11:28:55" level=info Agent=PostmanRuntime/7.28.2 DataSize=250 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="72 ms" status=200
+time="2022-08-19 11:31:17" level=info Agent=PostmanRuntime/7.28.2 DataSize=250 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="63 ms" status=200
+time="2022-08-19 13:23:22" level=error Agent=PostmanRuntime/7.28.2 DataSize=0 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="75 ms" status=500
+time="2022-08-19 13:24:21" level=error Agent=PostmanRuntime/7.28.2 DataSize=0 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="5 ms" status=500
+time="2022-08-19 13:25:39" level=error Agent=PostmanRuntime/7.28.2 DataSize=0 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="62 ms" status=500
+time="2022-08-19 13:28:08" level=error Agent=PostmanRuntime/7.28.2 DataSize=0 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="17 ms" status=500
+time="2022-08-19 13:28:31" level=info Agent=PostmanRuntime/7.28.2 DataSize=200 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2022-08-19 13:28:40" level=info Agent=PostmanRuntime/7.28.2 DataSize=67 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="3 ms" status=200
+time="2022-08-19 13:44:04" level=info Agent=PostmanRuntime/7.28.2 DataSize=685 HostName=WIN-VO66KVNSN00 Ip="::1" Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="1 ms" status=200
