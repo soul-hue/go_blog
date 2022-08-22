@@ -7,3 +7,4 @@ time="2022-08-19 13:28:08" level=error Agent=PostmanRuntime/7.28.2 DataSize=0 Ho
 time="2022-08-19 13:28:31" level=info Agent=PostmanRuntime/7.28.2 DataSize=200 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
 time="2022-08-19 13:28:40" level=info Agent=PostmanRuntime/7.28.2 DataSize=67 HostName=WIN-VO66KVNSN00 Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="3 ms" status=200
 time="2022-08-19 13:44:04" level=info Agent=PostmanRuntime/7.28.2 DataSize=685 HostName=WIN-VO66KVNSN00 Ip="::1" Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="1 ms" status=200
+time="2022-08-19 13:44:26" level=info Agent=PostmanRuntime/7.28.2 DataSize=695 HostName=WIN-VO66KVNSN00 Ip="::1" Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="11 ms" status=200
